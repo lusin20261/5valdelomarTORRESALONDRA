@@ -1,0 +1,5 @@
+1: Lavar mi ropa
+2: Prepararme una mazamorra de piña
+3: Sacar a pasear los zapatos
+4: Lustrar al perro
+5: Visitar el nevado Lusin
